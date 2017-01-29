@@ -1,0 +1,26 @@
+Exercice d'utilisation de Git et de Github
+
+Un texte d'introduction introduit le sujet et en présente les motivations.
+Ce texte pourrait aussi annoncer le plan suivi, avec éventuellement des liens pour faciliter la navigation.
+la première partie
+la deuxième partie
+la troisième partie
+la conclusion
+
+Première partie
+
+Texte de la première partie, plus ou moins long, qui finit en annonçant la seconde partie.
+
+Deuxième partie
+
+Texte de la deuxième partie, plus ou moins long, et aussi intéressant que la première partie;
+
+Troisième partie
+
+Texte de la troisième partie, qui devient de plus en plus passionnant.
+
+Conclusion
+
+Et la conclusion résume l'essentiel des informations apportées dans les trois parties précédentes, en une synthèse pertinente et percutante.
+
+
